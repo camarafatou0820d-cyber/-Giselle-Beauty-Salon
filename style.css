@@ -176,3 +176,14 @@ footer p {
     font-size: 0.95rem;
   }
 }
+/* Homepage image */
+
+section:first-child img {
+  width: 100%;
+  max-width: 650px;
+  height: 400px;
+  object-fit: cover;
+  display: block;
+  margin: 30px auto;
+  border-radius: 18px;
+}
